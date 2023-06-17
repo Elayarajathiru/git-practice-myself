@@ -1,0 +1,20 @@
+{
+  "name": "typescriptpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "date-fns": "^2.30.0",
+    "date-format": "^4.0.14",
+    "jsonpath": "^1.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
