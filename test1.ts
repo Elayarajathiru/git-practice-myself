@@ -1,5 +1,4 @@
-function check(para1:string,para2:string){
-    console.log(`Print the parameter values ${para1}, and ${para2}`);
-}
-
-check('valuecheck1','valuecheck2');
+let firstname:string = "Raja"; // declare a variable with type string
+//firstname = 2; // throw an error -> Type 'number' is not assignable to type 'string'.
+let lastname ="Raja2"; // declare a variable without type
+//lastname = 2; //attempts to re-assign the value to a different type
